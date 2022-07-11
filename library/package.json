@@ -16,12 +16,12 @@
 		"watch": "yarn run build --watch"
 	},
 	"peerDependencies": {
-		"react": ">=16.11.0",
-		"react-native": ">=0.62.0"
+		"react": "18.0.0",
+		"react-native": "^0.69.1"
 	},
 	"dependencies": {
 		"@types/react": "*",
-		"@types/react-native": ">=0.62.0",
+		"@types/react-native": "^0.69.3",
 		"toolkit.ts": "^0.0.2"
 	}
 }
